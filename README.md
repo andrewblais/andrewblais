@@ -1,7 +1,5 @@
-## **_About:_**
+# **_`andrewblais`_**
 
----
- 
 [![Python](https://img.shields.io/badge/Python-3.13%2B-dodgerblue?logo=python&logoColor=dodgerblue)](https://www.python.org/)
 &nbsp;
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -34,13 +32,9 @@
 &nbsp;
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
----
-
 Self-taught **Software Developer** transitioning into **Software Engineering**, focused on clean full-stack architecture, automation, and mathematics.
 
 Studying these subjects to contribute the the **AI Safety Theory Conversation**.
-
----
 
 ## 🛠️ **_Tech I Work With:_**
 
@@ -56,8 +50,6 @@ Studying these subjects to contribute the the **AI Safety Theory Conversation**.
 
 -   **Learning:** Linear Algebra, Statistics, ML (Cohen), Algorithms (Steele, Barrett).
 
----
-
 ## 🎯 **_Focus:_**
 
 -   🌐 Deploying a full-stack **React + Node.js app** on AWS.
@@ -70,8 +62,6 @@ Studying these subjects to contribute the the **AI Safety Theory Conversation**.
 
 -   🛠️ Learning how to fork and contribute to open-source projects.
 
----
-
 ## 📂 Featured Projects
 
 > The first two repositories are currently private while under active development and documentation. I plan to make them public once structure and security are polished.
@@ -83,8 +73,6 @@ Studying these subjects to contribute the the **AI Safety Theory Conversation**.
 -   [**mathWithPython**](https://github.com/andrewblais/mathWithPython) – Math-focused notebooks and scripts paralleling my studies in Linear Algebra, Statistics, and Machine Learning — blending theory with Python-based implementation.
 
 -   [**note-take**](https://github.com/andrewblais/note-take) – A full-stack, single-page note-taking app built with React, Node.js, and PostgreSQL. Users can write their own notes or auto-generate jokes and quotes from public APIs. Data is persisted locally via PostgreSQL and managed through pgAdmin 4.
-
----
 
 ## 🎓 **_Courses & Certifications:_**
 
@@ -148,8 +136,6 @@ Studying these subjects to contribute the the **AI Safety Theory Conversation**.
 
 -   [**_AWS for Beginners_**](https://www.udemy.com/course/introduction-to-cloud-computing-on-amazon-aws-for-beginners), Davis
 
----
-
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrewblais&show_icons=true&theme=dark&count_private=true)
@@ -157,8 +143,6 @@ Studying these subjects to contribute the the **AI Safety Theory Conversation**.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewblais&layout=pie&theme=dark&count_private=false&exclude_repo=&size_weight=0&count_weight=1&custom_title=Most%20Used%20Languages%20by%20Count)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewblais&layout=pie&theme=dark&count_private=false&exclude_repo=&size_weight=1&count_weight=0&custom_title=Most%20Used%20Languages%20by%20Size)
-
----
 
 ## 🌍 **_Connect with Me:_**
 
