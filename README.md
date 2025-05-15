@@ -150,4 +150,4 @@ Studying these subjects to contribute the the **AI Safety Theory Conversation**.
 
 -   🐙 [github.com/andrewblais](https://github.com/andrewblais)
 
--   👋 Looking for guidance in getting started with contributing to projects here.
+-   👋 Please reach out if you can offer guidance to this GitHub project contribution newbie.
