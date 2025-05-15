@@ -1,14 +1,4 @@
-# 👋 Hi, I'm Andrew Blais
-
-Self-taught **Software Developer** transitioning into **Software Engineering**, focused on clean full-stack architecture, automation, and mathematics.
-
-Studying these subjects to contribute the the **AI Safety Theory Conversation**.
-
----
-
-## 📚 Study & Stack
-
-### 💻 **Languages & Tools**
+# **_Andrew Blais_**
 
 [![Python](https://img.shields.io/badge/Python-3.13%2B-dodgerblue?logo=python&logoColor=dodgerblue)](https://www.python.org/)
 &nbsp;
@@ -17,11 +7,7 @@ Studying these subjects to contribute the the **AI Safety Theory Conversation**.
 [![Node.js](https://img.shields.io/badge/Node.js-18%2B-green?logo=node.js&logoColor=green)](https://nodejs.org/)
 &nbsp;
 [![React](https://img.shields.io/badge/React-18%2B-darkturquoise?logo=react&logoColor=darkturquoise)](https://react.dev/)
-
----
-
-### ☁️ **DevOps & Infra**
-
+&nbsp;
 [![AWS](https://img.shields.io/badge/AWS-EC2%20%7C%20RDS%20%7C%20S3-orange?logo=amazon-aws)](https://aws.amazon.com/)
 &nbsp;
 [![Bash](https://img.shields.io/badge/Shell-Bash-green?logo=gnu-bash&logoColor=green)](https://www.gnu.org/software/bash/)
@@ -29,11 +15,7 @@ Studying these subjects to contribute the the **AI Safety Theory Conversation**.
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14%2B-dodgerblue?logo=postgresql&logoColor=dodgerblue)](https://www.postgresql.org/)
 &nbsp;
 [![NGINX](https://img.shields.io/badge/NGINX-Configured-green?logo=nginx&logoColor=green)](https://nginx.org/)
-
----
-
-### 🏫 **Core Learning Areas**
-
+&nbsp;
 [![Linear Algebra](https://img.shields.io/badge/Math-Linear%20Algebra-orange)]()
 &nbsp;
 [![Statistics](https://img.shields.io/badge/Math-Statistics-blueviolet)]()
@@ -42,17 +24,19 @@ Studying these subjects to contribute the the **AI Safety Theory Conversation**.
 &nbsp;
 [![Algorithms](https://img.shields.io/badge/CS-Algorithms%20%26%20Data%20Structures-teal)]()
 &nbsp;
-[![AI Safety](https://img.shields.io/badge/Focus-AI%20Safety-orangered)]()
-
-### ☀️ **Project Style**
-
+[![AI Safety](https://img.shields.io/badge/Interest-AI%20Safety-orangered)]()
+&nbsp;
 ![Modular Design](https://img.shields.io/badge/Modular-Design-brightgreen)
 &nbsp;
-![Offline Fallback](https://img.shields.io/badge/Offline-Backup%20Data-blueviolet)
+![Built for Clarity](https://img.shields.io/badge/Ethos-Clarity%20%26%20Refactor-blue)
 &nbsp;
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
-&nbsp;
-![Built for Clarity](https://img.shields.io/badge/Focus-Clarity%20%26%20Refactor-blue)
+
+---
+
+Self-taught **Software Developer** transitioning into **Software Engineering**, focused on clean full-stack architecture, automation, and mathematics.
+
+Studying these subjects to contribute the the **AI Safety Theory Conversation**.
 
 ---
 
