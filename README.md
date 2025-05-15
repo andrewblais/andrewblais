@@ -1,5 +1,7 @@
 # **_Andrew Blais_**
 
+---
+ 
 [![Python](https://img.shields.io/badge/Python-3.13%2B-dodgerblue?logo=python&logoColor=dodgerblue)](https://www.python.org/)
 &nbsp;
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
