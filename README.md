@@ -149,3 +149,5 @@ Studying these subjects to contribute the the **AI Safety Theory Conversation**.
 -   🌐 [andrewblais.dev](https://www.andrewblais.dev)
 
 -   🐙 [github.com/andrewblais](https://github.com/andrewblais)
+
+-   👋 Looking for guidance in getting started with contributing to projects here.
