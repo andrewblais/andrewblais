@@ -34,7 +34,7 @@
 
 Self-taught **Software Developer** transitioning into **Software Engineering**, focused on clean full-stack architecture, automation, and mathematics.
 
-Studying these subjects to contribute the the **AI Safety Theory Conversation**.
+Studying these subjects with hopes of contributing to the **AI Safety** conversation.
 
 ## 🛠️ **_Tech I Work With:_**
 
